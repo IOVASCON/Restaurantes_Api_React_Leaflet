@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Restaurante A",
+      "location": [-23.55052, -46.633308],
+      "description": "Um ótimo restaurante em São Paulo!",
+      "image": "https://via.placeholder.com/150", 
+      "website": "https://example.com/restaurante-a"
+    },
+    {
+      "id": 2,
+      "name": "Restaurante B",
+      "location": [-23.553318, -46.635678],
+      "description": "Deliciosos pratos brasileiros.",
+      "image": "https://via.placeholder.com/150", 
+      "website": "https://example.com/restaurante-b"
+    },
+    {
+      "id": 3,
+      "name": "Restaurante C",
+      "location": [-23.548987, -46.634577],
+      "description": "Especialidade em massas italianas.",
+      "image": "https://via.placeholder.com/150", 
+      "website": "https://example.com/restaurante-c"
+    }
+  ]
+  
